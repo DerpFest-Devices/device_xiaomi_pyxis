@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "nysascape/kernel_xiaomi_pyxis",
+    "target_path": "kernel/xiaomi/pyxis",
+    "branch": "pie",
+    "remote": "github"
+  },
+  {
+    "remote": "github",
+    "repository": "DarkAngelGR/vendor_xiaomi_pyxis",
+    "target_path": "vendor/xiaomi/pyxis",
+    "branch": "master"
+  }
+]
